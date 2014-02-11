@@ -3,4 +3,6 @@
 
 Once upon 
 Over many a quant 
-While
+While I nodded
+As of some one
+Tis some visitor
