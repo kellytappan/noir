@@ -10,6 +10,11 @@ Only this and nothing more
 
 Ah distinctly I remeber
 And each seperate
+<<<<<<< HEAD
 what the what
 
+=======
+wtf
+better notes
+>>>>>>> more-serious
 
